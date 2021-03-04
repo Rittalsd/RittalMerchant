@@ -3,6 +3,12 @@ package sd.rittal.qrsdk.uitl;
 import org.json.JSONException;
 import org.json.JSONObject;
 
+
+
+
+/* Sudan Quick Response Code Specifications for Payment Systems
+
+is developed by Ahmed Abdalla @github: ahmedkhtim */
 public class MerchantQrUtil {
 
 
