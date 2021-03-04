@@ -1,0 +1,35 @@
+<resources>
+
+    <string name="submit">Submit</string>
+    <string name="cancel">Cancel</string>
+    <string name="pan_number">Pan number</string>
+    <string name="expire_date">expire date</string>
+    <string name="ipin">IPIN</string>
+    <string name="error">Error</string>
+    <string name="success">Success</string>
+    <string name="amount">Amount</string>
+    <string name="responsestatus">Response Status</string>
+    <string name="qr_purchase">Qr Purchase</string>
+    <string name="pan_error">pan number between 16 to 19 digits</string>
+    <string name="expire_error">choose pan expire date</string>
+    <string name="ipin_erro">ipin 4 digits</string>
+    <string name="amount_error">enter valid amount</string>
+    <string name="server_error">Connection with server is Failed</string>
+    <string name="went_error">Somethings Went Wrong</string>
+    <string name="unvalid_qr">un valid qr</string>
+    <string name="qr_not_found">qr not found</string>
+    <string name="merchant_name">merchant name</string>
+    <string name="merchant_city">merchant city</string>
+    <string name="successfully">Successfully</string>
+    <string name="service_name">Service type</string>
+    <string name="exit">Exit</string>
+    <string name="share">Share</string>
+    <string name="response_code">Response code</string>
+    <string name="currency">%.2f SDG</string>
+    <string name="fees">Fees</string>
+    <string name="pan_name">pan name</string>
+    <string name="add">add</string>
+    <string name="add_card_to_favorite">Add Card</string>
+    <string name="close">close</string>
+
+</resources>

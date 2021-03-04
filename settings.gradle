@@ -1,0 +1,3 @@
+include ':qrsdk'
+include ':app'
+rootProject.name = "Rittal Merchant"
